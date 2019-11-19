@@ -18,3 +18,4 @@ where
     cal01 = 'aaa'
     or cal02 = 'ccc'
 
+--コメント追加
