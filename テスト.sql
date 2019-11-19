@@ -16,5 +16,5 @@ from
     table01
 where
     cal01 = 'aaa'
-    and cal02 = 'bbb'
+    or cal02 = 'ccc'
 
